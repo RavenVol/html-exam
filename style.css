@@ -107,6 +107,6 @@ body {
 
 @media (max-width: 999px) {
     .people {
-        grid-template-columns: repeat(2, 200px);
+        grid-template-columns: repeat(2, 220px);
     }
 }
